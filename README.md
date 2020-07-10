@@ -1,1 +1,4 @@
-# Colstuwjx
+- ⚡ Building gaming infra and paas
+- 🌱 Open source fans
+- 🔭 Interest in k8s, cloud-native, distributed systems
+- 📫 How to reach me: [colstuwjx.github.io](https://colstuwjx.github.io)
